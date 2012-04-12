@@ -1,4 +1,4 @@
-package marytts.voice.Victor_stts;
+package marytts.voice.SttsSvHbHsmm;
 
 import static org.junit.Assert.assertNotNull;
 import marytts.modules.synthesis.Voice;
