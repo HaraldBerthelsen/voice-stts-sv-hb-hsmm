@@ -1,4 +1,4 @@
-package marytts.voice.Victor_stts;
+package marytts.voice.SttsSvHbHsmm;
 
 import marytts.config.VoiceConfig;
 import marytts.exceptions.MaryConfigurationException;
