@@ -1,6 +1,6 @@
-A basic Swedish voice for marytts 5.0
+A basic Swedish voice for marytts 5.2
 
 mvn package
-cp target/voice-stts-sv-hb-hsmm-5.0-SNAPSHOT.jar <MARY_BASE>/target/marytts-5.0-SNAPSHOT/lib/
+cp target/voice-stts-sv-hb-hsmm-5.2-SNAPSHOT.jar <MARY_BASE>/target/marytts-5.2-SNAPSHOT/lib/
 
-sh <MARY_BASE>/target/marytts-5.0-SNAPSHOT/bin/maryserver.sh
+sh <MARY_BASE>/target/marytts-5.2-SNAPSHOT/bin/marytts-server
